@@ -1,0 +1,42 @@
+aid: campus-apartments
+url: https://github.com/api-evangelist/campus-apartments
+name: Campus Apartments
+type: Index
+image: https://www.campusapts.com/favicon.ico
+tags:
+  - Student Housing
+  - Real Estate
+  - Property Management
+  - Higher Education
+  - Multifamily
+  - Privately Held
+description: Campus Apartments is a privately held student housing developer, owner, and operator headquartered in Philadelphia, Pennsylvania. Founded in 1958, the company originally served students of the University of Pennsylvania and has grown into one of the largest privately held student housing companies based in the United States, operating over 145 properties across more than 25 states with a portfolio of roughly 70,000 beds. The firm is led by CEO David J. Adelman and operates alongside affiliated brand presence historically associated with the Campus Crest student housing portfolio. Campus Apartments does not publish a public developer API, OpenAPI documentation, SDK, or developer portal.
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+common:
+  - type: Website
+    url: https://www.campusapts.com
+  - type: About
+    url: https://www.campusapts.com/about/
+  - type: Properties
+    url: https://www.campusapts.com/apartments/
+  - type: Leadership
+    url: https://www.campusapts.com/leadership/
+  - type: Services
+    url: https://www.campusapts.com/services/
+  - type: News
+    url: https://www.campusapts.com/news/
+  - type: Careers
+    url: https://www.campusapts.com/careers/
+  - type: Contact
+    url: https://www.campusapts.com/contact/
+  - type: PrivacyPolicy
+    url: https://www.campusapts.com/privacy-policy/
+  - type: TermsOfService
+    url: https://www.campusapts.com/terms-of-use/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/campus-apartments-inc-
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
