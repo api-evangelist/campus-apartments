@@ -2,6 +2,17 @@ aid: campus-apartments
 url: https://github.com/api-evangelist/campus-apartments
 name: Campus Apartments
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.campusapts.com/favicon.ico
 tags:
   - Student Housing
