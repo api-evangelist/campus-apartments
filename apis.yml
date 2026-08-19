@@ -24,7 +24,7 @@ tags:
 description: Campus Apartments is a privately held student housing developer, owner, and operator headquartered in Philadelphia, Pennsylvania. Founded in 1958, the company originally served students of the University of Pennsylvania and has grown into one of the largest privately held student housing companies based in the United States, operating over 145 properties across more than 25 states with a portfolio of roughly 70,000 beds. The firm is led by CEO David J. Adelman and operates alongside affiliated brand presence historically associated with the Campus Crest student housing portfolio. Campus Apartments does not publish a public developer API, OpenAPI documentation, SDK, or developer portal.
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: DomainSecurity
     url: security/campus-apartments-domain-security.yml
